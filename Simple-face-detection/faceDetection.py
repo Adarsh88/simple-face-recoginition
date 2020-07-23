@@ -1,5 +1,5 @@
 '''
-Developer ANAS DAVOOD TK
+Developer ADARSH NARAYANAN
 '''
 
 import numpy as np
